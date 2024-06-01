@@ -1,25 +1,21 @@
 # BP_CamPost_UE532
-Developed with Unreal Engine 5.3.2 
-by: Katax 
+Developed with Unreal Engine 5.3.2 <br> 
+by: Katax
 
-Email: katax.emperor@gmail.com 
+LinkedIn: www.linkedin.com/in/cliff-sharif<br> 
+Home: www.kataxwork.com<br> 
 
-LinkedIn: www.linkedin.com/in/cliff-sharif
-
-Home: www.kataxwork.com
+> [!NOTE]
+> Blueprint only
 
 
 This application:
 
->Cine Camera Actor and commponent. 
+>Cine Camera Actor and commponent. <br> 
+>implement possess <br> 
+>use and customise postproccess materials <br> 
+>Switch camera between scene and actor<br> 
 
->implement possess 
-
->use and customise postproccess materials 
-
->Switch camera between scene and actor
-
-
---------
+<h4> This project is designed for teaching Unreal Engine by demonstration a functional prototype. <br> The project template is optimized to reduce size.  </h4>
 
 
